@@ -1,5 +1,3 @@
-# awesome-circlestark
-
 <div align="center">
   <h1 align="center">Awesome Circle STARKs</h1>
   <p align="center">
