@@ -25,6 +25,8 @@
 - [Introduce to Circle Stark](https://eigenlab.medium.com/introduce-to-circle-stark-2830d261f839) by Eigen Network
 - [Yet another circle STARK tutorial](https://research.chainsafe.io/blog/circle-starks/) by Timofey Yaluhin
 - [The ECFFT algorithm](https://solvable.group/posts/ecfft/)
+- [ECFFT on the BN254 base field in Rust](https://solvable.group/posts/ecfft-bn254/)
+- [Applications of Riemann-Roch in cryptography](https://solvable.group/posts/riemann-roch-crypto/)
 - [Algebraic FFTs](https://rje.li/24-07-03-alg-fft.html)
 - [Fast Reed-Solomon IOP (FRI) Proximity Test](https://rot256.dev/post/fri/)
 
