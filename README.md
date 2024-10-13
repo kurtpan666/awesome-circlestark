@@ -36,6 +36,7 @@
 - [Eli Ben Sasson: Circle STARK and Favorite Open Problems](https://www.youtube.com/watch?v=Jau3_EHtH1s)
 - [My adventures building a circle STARK prover in (sort of) python - Vitalik Buterin](https://www.youtube.com/watch?v=V4QMgYvsKrg)
 - [Starkware - Stwo & Circle STARK: Next Gen Proving](https://www.youtube.com/watch?v=dl-igdDjJsQ)
+- [ZK11: Circle STARKs - Ulrich Haböck & Shahar Papini](https://www.youtube.com/watch?v=NAhLYMysSdk)
 - [Ariel Gabizon - FFT's on the projective line and circle-STARKs](https://www.youtube.com/watch?v=d1f9sBajj10)
 - [Swastik Kopparty: FRI and STARKs via an Elliptic Curve Fast Fourier Transform (ECFFT)](https://www.youtube.com/watch?v=7Trj7tQ-3Ug)
 - [zkStudyClub: Elliptic Curve Fast Fourier Transform (ECFFT)](https://www.youtube.com/watch?v=kQZvBXLZ8dM) by David Levit
