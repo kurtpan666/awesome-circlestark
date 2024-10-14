@@ -16,6 +16,7 @@
 - ECFFT [Part I](https://arxiv.org/pdf/2107.08473), [Part II](https://eprint.iacr.org/2022/1542.pdf)
 - [Mersenne 31 Polynomial Arithmetic](https://github.com/ingonyama-zk/papers/blob/main/Mersenne31_polynomial_arithmetic.pdf)
 - [Really Complex Codes with Application to STARKs](https://eprint.iacr.org/2024/1620)
+- [RPO-M31 and XHash-M31: Efficient Hash Functions for Circle STARKs](https://eprint.iacr.org/2024/1635)
 ## Posts
 
 - [Why I’m excited by Circle STARK and Stwo](https://elibensasson.blog/why-im-excited-by-circle-stark-and-stwo/) by Eli Ben Sasson
@@ -24,11 +25,13 @@
 - [Exploring circle STARKs](https://vitalik.eth.limo/general/2024/07/23/circlestarks.html) by Vitalik Buterin
 - [Introduce to Circle Stark](https://eigenlab.medium.com/introduce-to-circle-stark-2830d261f839) by Eigen Network
 - [Yet another circle STARK tutorial](https://research.chainsafe.io/blog/circle-starks/) by Timofey Yaluhin
+- [Deep dive into Circle-STARKs FFT](https://ihagopian.com/posts/deep-dive-into-circle-starks-fft) by Ignacio Hagopian
 - [The ECFFT algorithm](https://solvable.group/posts/ecfft/)
 - [ECFFT on the BN254 base field in Rust](https://solvable.group/posts/ecfft-bn254/)
 - [Applications of Riemann-Roch in cryptography](https://solvable.group/posts/riemann-roch-crypto/)
 - [Algebraic FFTs](https://rje.li/24-07-03-alg-fft.html)
 - [Fast Reed-Solomon IOP (FRI) Proximity Test](https://rot256.dev/post/fri/)
+
 
 ## Videos
 - [Circle STARKs - Ulrich Habock](https://www.youtube.com/watch?v=FnqbH-02vFo)
