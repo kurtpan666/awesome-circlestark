@@ -20,7 +20,7 @@
 ## Posts
 
 - [Why I’m excited by Circle STARK and Stwo](https://elibensasson.blog/why-im-excited-by-circle-stark-and-stwo/) by Eli Ben Sasson
-- [Circle STARKs: Part I, Mersenne](https://www.zksecurity.xyz/blog/posts/circle-starks-1/) by ZKSECURITY
+- [Circle STARKs: Part I, Mersenne](https://www.zksecurity.xyz/blog/posts/circle-starks-1/) [Part II, Circles](https://blog.zksecurity.xyz/posts/circle-starks-2/) by ZKSECURITY
 - [An introduction to circle STARKs](https://blog.lambdaclass.com/an-introduction-to-circle-starks/) by LambdaClass
 - [Exploring circle STARKs](https://vitalik.eth.limo/general/2024/07/23/circlestarks.html) by Vitalik Buterin
 - [Introduce to Circle Stark](https://eigenlab.medium.com/introduce-to-circle-stark-2830d261f839) by Eigen Network
